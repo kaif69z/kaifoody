@@ -1,20 +1,24 @@
+# Kaifoody 🍔
 
-# Kaifoody - Premium Food Delivery SPA
+Kaifoody is a premium responsive food delivery web application with a modern UI/UX design.
 
-Premium responsive food delivery landing page built using:
-- HTML
-- CSS
+## ✨ Features
+- Fully Responsive Design
+- Premium Modern UI
+- Smooth SPA Style Layout
+- Interactive Food Cards
+- Offers & Reviews Sections
+- Mobile Friendly
+- Clean CSS Structure
+- Fast Loading
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3
 - JavaScript
 
-Features:
-- Fully responsive
-- Premium UI/UX
-- SPA style layout
-- Modern cards
-- Hero sections
-- Reviews
-- Offers
-- Download app section
+## 👨‍💻 Developer
+Kaif M
 
-Demo project by Kaif M
-GitHub Username: kaif69z
+GitHub:
+https://github.com/kaif69z
