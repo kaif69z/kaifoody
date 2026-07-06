@@ -17,7 +17,7 @@ Kaifoody is a premium responsive food delivery web application with a modern UI/
 - CSS3
 - JavaScript
 
-- live Link: https://kaif69z.github.io/kaifoody/#
+- live Link:  https://kaiifm.github.io/kaifoody/
 
 ## 👨‍💻 Developer
 Kaif M
